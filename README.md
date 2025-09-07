@@ -1,6 +1,9 @@
 <h1 align="center">👋 Olá, Sou Luan Bitencourt Sarmento</h1>
 <h3 align="center">Estudante de Bacharelado em Inteligência Artificial no Biopark (Toledo, PR)</h3>
 
+[![Faculdade](https://img.shields.io/badge/Faculdade-Bacharelado%20IA-green)](https://faculdadedonaduzzi.com.br/inteligencia-artificial/)
+
+
 - 🔭 Estou trabalhando atualmente no projeto [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
 
 - 🌱 **O que estou aprendendo atualmente**:

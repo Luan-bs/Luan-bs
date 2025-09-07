@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, Eu Sou Luan Bitencourt Sarmento</h1>
+<h1 align="center">👋 Olá, Sou Luan Bitencourt Sarmento</h1>
 <h3 align="center">Estudante de Bacharelado em Inteligência Artificial no Biopark (Toledo, PR)</h3>
 
 - 🔭 Estou trabalhando atualmente no projeto [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)

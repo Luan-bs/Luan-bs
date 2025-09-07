@@ -3,17 +3,20 @@
 
 - 🔭 Estou trabalhando atualmente no projeto [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
 
-- 🌱 O que estou aprendendo atualmente:
-  **Pipelines de Dados** → Kafka, Apache Spark, Databricks, Airflow  
-  **Infraestrutura e Orquestração** → Docker, GCP (BigQuery, Dataflow, Pub/Sub)  
-  **Bancos de Dados** → PostgreSQL e MySQL  
-  **Inteligência Artificial** → fundamentos e aplicações iniciais  
+- 🌱 **O que estou aprendendo atualmente**:
+  
+  Pipelines de Dados → Kafka, Apache Spark, Databricks, Airflow  
+  Infraestrutura e Orquestração → Docker, GCP (BigQuery, Dataflow, Pub/Sub)  
+  Bancos de Dados → PostgreSQL e MySQL  
+  Inteligência Artificial → fundamentos e aplicações iniciais  
 
 - 📫 Email **luanbitencourt57@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/luan bitencourt sarmento" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luan bitencourt sarmento" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/luan-bitencourt-sarmento-21654b267" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luan bitencourt sarmento" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

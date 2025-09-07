@@ -4,10 +4,10 @@
 - 🔭 Estou trabalhando atualmente no projeto [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
 
 - 🌱 O que estou aprendendo atualmente:
-- **Pipelines de Dados** → Kafka, Apache Spark, Databricks, Airflow  
-- **Infraestrutura e Orquestração** → Docker, GCP (BigQuery, Dataflow, Pub/Sub)  
-- **Bancos de Dados** → PostgreSQL e MySQL  
-- **Inteligência Artificial** → fundamentos e aplicações iniciais  
+  **Pipelines de Dados** → Kafka, Apache Spark, Databricks, Airflow  
+  **Infraestrutura e Orquestração** → Docker, GCP (BigQuery, Dataflow, Pub/Sub)  
+  **Bancos de Dados** → PostgreSQL e MySQL  
+  **Inteligência Artificial** → fundamentos e aplicações iniciais  
 
 - 📫 Email **luanbitencourt57@gmail.com**
 

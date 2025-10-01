@@ -3,10 +3,12 @@
 
 [![Faculdade](https://img.shields.io/badge/Faculdade-Bacharelado%20IA-green)](https://faculdadedonaduzzi.com.br/inteligencia-artificial/)
 
+- **Estou trabalhando atualmente no projeto:** [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
+- **Realizei trabalhos de Análise de dados:**
+  [Dashboard 01](https://app.powerbi.com/view?r=eyJrIjoiZDI3YTMxZTktZWNiZS00OTU5LTgyMDItNmYyOGY1MjRjM2MzIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
+  [Dashboard 02](https://app.powerbi.com/view?r=eyJrIjoiMThiNjQ1ZTktYzA1OC00ZTc2LWEzY2EtNDk0ZGE4N2UyYmJmIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
 
-- 🔭 Estou trabalhando atualmente no projeto [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
-
-- 🌱 **O que estou aprendendo atualmente**:
+- **O que estou aprendendo atualmente**:
   
   Pipelines de Dados → Kafka, Apache Spark, Databricks, Airflow  
   Infraestrutura e Orquestração → Docker, GCP (BigQuery, Dataflow, Pub/Sub)  

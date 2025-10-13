@@ -1,19 +1,24 @@
 <h1 align="center">👋 Olá, Sou Luan Bitencourt Sarmento</h1>
-<h3 align="center">Estudante de Bacharelado em Inteligência Artificial no Biopark (Toledo, PR)</h3>
+<h3 align="center">Estudante de Bacharelado em Inteligência Artificial no Biopark (Toledo, PR)</h3> 
 
-[![Faculdade](https://img.shields.io/badge/Faculdade-Bacharelado%20IA-green)](https://faculdadedonaduzzi.com.br/inteligencia-artificial/)
+[![Faculdade](https://img.shields.io/badge/Faculdade-Bacharelado%20IA-red)](https://faculdadedonaduzzi.com.br/inteligencia-artificial/)
 
-- **Estou trabalhando atualmente no projeto:** [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
-- **Realizei trabalhos de Análise de dados:**
-  [Dashboard 01](https://app.powerbi.com/view?r=eyJrIjoiZDI3YTMxZTktZWNiZS00OTU5LTgyMDItNmYyOGY1MjRjM2MzIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
-  [Dashboard 02](https://app.powerbi.com/view?r=eyJrIjoiMThiNjQ1ZTktYzA1OC00ZTc2LWEzY2EtNDk0ZGE4N2UyYmJmIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
-
+- **Estou trabalhando atualmente no projeto:**
+  
+  [Sistema Satisfação Cantina Biopark](https://github.com/users/Jhonatan-Margraf/projects/4)
+  
+- **Projetos de Análise de dados:**
+  
+  [Comercial Dashboard](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/comercial-projeto-final)
+  
+  [Rh Dashboard](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/rh-analysis)
+  
 - **O que estou aprendendo atualmente**:
   
-  Pipelines de Dados → Kafka, Apache Spark, Databricks, Airflow  
-  Infraestrutura e Orquestração → Docker, GCP (BigQuery, Dataflow, Pub/Sub)  
+  Pipelines de Dados → Kafka, Apache Spark, Airflow, pandas  
+  Infraestrutura e Orquestração → Docker, Googel Cloud, Databricks
   Bancos de Dados → PostgreSQL e MySQL  
-  Inteligência Artificial → fundamentos e aplicações iniciais  
+  Inteligência Artificial 
 
 - 📫 Email **luanbitencourt57@gmail.com**
 

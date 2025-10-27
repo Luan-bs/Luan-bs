@@ -7,6 +7,8 @@
   
   [Sistema Satisfação Cantina Biopark](https://github.com/Jhonatan-Margraf/Sistema-de-Satisfacao)
   
+  [ecommerce-data-analysis](https://github.com/Luan-bs/ecommerce-data-analysis)
+  
 - **Projetos de Análise de dados:**
   
   [Comercial Dashboard](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/comercial-projeto-final)

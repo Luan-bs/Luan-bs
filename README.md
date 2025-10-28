@@ -16,7 +16,7 @@
 
 - **E-commerce Data Analysis**  
   [🔗 Repositório](https://github.com/Luan-bs/ecommerce-data-analysis)
-
+  
 ---
 
 ### 📊 Projetos de Análise de Dados
@@ -34,12 +34,16 @@
 - **Pipelines de Dados:** Kafka, Apache Spark, Airflow, pandas  
 - **Infraestrutura e Orquestração:** Docker, Google Cloud, Databricks  
 - **Bancos de Dados:** PostgreSQL, MySQL  
-- **Inteligência Artificial:** Modelagem e análise preditiva  
+- **Inteligência Artificial:** Modelagem e análise preditiva
 
 ---
-### 📫 Contato
 
-**Email:** luanbitencourt57@gmail.com
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-bs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-bs&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
 
 <h3 align="center">Let's Connect</h3>
 <p align="center">

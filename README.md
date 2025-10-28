@@ -55,5 +55,5 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,arduino,sqlite,mysql,postgres,docker,github,linux,cloudflare" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,arduino,sqlite,mysql,postgres,docker,github" alt="Tech Stack" />
 </div>

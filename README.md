@@ -16,7 +16,7 @@
   
   [🔗 Site](https://cantinas-feedback-dashboard.vercel.app/)
   
-- **LEUCEMIA PR Data Analysis
+- **LEUCEMIA PR Data Analysis**
   [🔗 Site](https://github.com/Luan-bs/LeucemiaPR)
   
   [🔗 Dashboard](https://luan-bs.github.io/LeucemiaPR/)

@@ -16,12 +16,14 @@
   
   [🔗 Site](https://cantinas-feedback-dashboard.vercel.app/)
   
--**LEUCEMIA PR Data Analysis
-   [🔗 Site](https://github.com/Luan-bs/LeucemiaPR)
-   [🔗 Dashboard](https://luan-bs.github.io/LeucemiaPR/)
+- **LEUCEMIA PR Data Analysis
+  [🔗 Site](https://github.com/Luan-bs/LeucemiaPR)
+  
+  [🔗 Dashboard](https://luan-bs.github.io/LeucemiaPR/)
    
 - **E-commerce UK Data Analysis**  
   [🔗 Repositório](https://github.com/Luan-bs/UK-Retail-Analysis)
+  
   [🔗 Dashboard](https://uk-retail.streamlit.app/)
   
 ---

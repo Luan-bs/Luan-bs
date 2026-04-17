@@ -14,17 +14,19 @@
 - **Sistema de Satisfação — Cantina Biopark**  
   [🔗 Repositório](https://github.com/Jhonatan-Margraf/Sistema-de-Satisfacao)
   
-  [🔗 Site](https://cantinas-feedback-dashboard.vercel.app/)
+  [📊 Site](https://cantinas-feedback-dashboard.vercel.app/)
   
-- **LEUCEMIA PR Data Analysis**
-  [🔗 Site](https://github.com/Luan-bs/LeucemiaPR)
+- **Leucemia PR Data Analysis**
   
-  [🔗 Dashboard](https://luan-bs.github.io/LeucemiaPR/)
+  [🔗 Repositório](https://github.com/Luan-bs/LeucemiaPR)
+  
+  [📊 Dashboard](https://luan-bs.github.io/LeucemiaPR/)
    
-- **E-commerce UK Data Analysis**  
+- **E-commerce UK Data Analysis**
+  
   [🔗 Repositório](https://github.com/Luan-bs/UK-Retail-Analysis)
   
-  [🔗 Dashboard](https://uk-retail.streamlit.app/)
+  [📊 Dashboard](https://uk-retail.streamlit.app/)
   
 ---
 

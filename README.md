@@ -9,35 +9,43 @@
 
 ---
 
-### 🚀 Projetos Atuais
+### 📊 Projetos de Análise de Dados
 
 - **Sistema de Satisfação — Cantina Biopark**  
   [🔗 Repositório](https://github.com/Jhonatan-Margraf/Sistema-de-Satisfacao)
   
-  [📊 Site](https://cantinas-feedback-dashboard.vercel.app/)
-  
+  [📊 Dashboard](https://cantinas-feedback-dashboard.vercel.app/)
+
+---
+
 - **Leucemia PR Data Analysis**
   
   [🔗 Repositório](https://github.com/Luan-bs/LeucemiaPR)
   
   [📊 Dashboard](https://luan-bs.github.io/LeucemiaPR/)
-   
+
+---
+
 - **E-commerce UK Data Analysis**
   
   [🔗 Repositório](https://github.com/Luan-bs/UK-Retail-Analysis)
   
   [📊 Dashboard](https://uk-retail.streamlit.app/)
-  
----
 
-### 📊 Projetos de Análise de Dados
+---
 
 - **Comercial Dashboard**  
   [🔗 Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/comercial-projeto-final)
+  
+  [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNiYTdmNzEtZWI2MS00MmY2LTg4YzktMTRhYjNiMWE1OTI0IiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9) 
 
+---
+  
 - **RH Dashboard**  
   [🔗 Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/rh-analysis)
-
+  
+  [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQ5MTExNTQtZTljZC00Y2Q3LWIxNDItOTgyOWM1NzE4ZTVlIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
+  
 ---
 
 ### 🧠 Atualmente Aprendendo

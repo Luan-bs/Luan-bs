@@ -7,22 +7,40 @@
   </a>
 </p>
 
+<h3 align="center">Let's Connect</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/luan-bitencourt-sarmento-21654b267" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Luan Bitencourt Sarmento" width="48" height="48" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Projetos de Análise de Dados
 
-- **Sistema de Satisfação — Cantina Biopark**  
+- **MobIA — Gestão Inteligente de Leads**
+  
+  1º Lugar — Hackathon Prati Donaduzzi
+  
+  [🔗 Repositório](https://github.com/DeepMindsBPK)
+
+---
+
+- **Sistema de Satisfação — Cantina Biopark**
+  
+  2º Lugar — CIPI III (Congresso Interdisciplinar de Pesquisa e Inovação)
+  
   [🔗 Repositório](https://github.com/Jhonatan-Margraf/Sistema-de-Satisfacao)
   
   [📊 Dashboard](https://cantinas-feedback-dashboard.vercel.app/)
+  
+  [Vídeo Youtube](https://www.youtube.com/watch?v=BQlXI5wRkC0)
 
 ---
 
 - **Leucemia PR Data Analysis**
   
   [🔗 Repositório](https://github.com/Luan-bs/LeucemiaPR)
-  
-  [📊 Dashboard](https://luan-bs.github.io/LeucemiaPR/)
 
 ---
 
@@ -46,32 +64,6 @@
   
   [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQ5MTExNTQtZTljZC00Y2Q3LWIxNDItOTgyOWM1NzE4ZTVlIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
   
----
-
-### 🧠 Atualmente Aprendendo
-
-- **Pipelines de Dados:** Kafka, Apache Spark, Airflow, pandas  
-- **Infraestrutura e Orquestração:** Docker, Google Cloud, Databricks  
-- **Bancos de Dados:** PostgreSQL, MySQL  
-- **Inteligência Artificial:** Modelagem e análise preditiva
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luan-bs&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luan-bs&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
-</div>
-
----
-
-<h3 align="center">Let's Connect</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/luan-bitencourt-sarmento-21654b267" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn - Luan Bitencourt Sarmento" width="48" height="48" />
-  </a>
-</p>
-
----
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,arduino,sqlite,mysql,postgres,docker,github" alt="Tech Stack" />

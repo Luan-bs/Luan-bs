@@ -52,6 +52,11 @@
 
 ---
 
+- **Otimização Carteira de Crédito**
+  
+  [🔗 Repositório](https://github.com/Luan-bs/Otimizacao_Matematica_Credito_Bancario)
+
+---
 - **Comercial Dashboard**  
   [🔗 Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/comercial-projeto-final)
   

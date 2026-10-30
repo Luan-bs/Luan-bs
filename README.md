@@ -15,8 +15,26 @@
 </p>
 
 ---
+### Projetos de Data Science e AI
 
-### 📊 Projetos de Análise de Dados
+- **Autoencoder NASA IMS — Bearing Anomaly Detection**
+  Projeto de pesquisa em PHM (Prognostics and Health Management)
+  
+  Detecção não-supervisionada de anomalias em rolamentos industriais via autoencoders neurais e baselines clássicos.
+  Dataset: [NASA IMS Bearings](https://data.nasa.gov/dataset/ims-bearings)
+
+  [🔗 Repositório](https://github.com/Luan-bs/autoencoder_nasa_ims)
+
+---
+
+- **Titanic Analysis - Etapas do Processo KDD e Feature Engine**
+  
+  Campeão Logistic Regression - CV Accuracy (5-Fold) = 82,73% | Val Recal = 78,18%
+  
+   [🔗 Repositório](https://github.com/Luan-bs/titanic_analysis)
+---
+
+### Projetos de Análise de Dados
 
 - **MobIA — Gestão Inteligente de Leads**
   

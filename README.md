@@ -21,17 +21,20 @@
   Projeto de pesquisa em PHM (Prognostics and Health Management)
   
   Detecção não-supervisionada de anomalias em rolamentos industriais via autoencoders neurais e baselines clássicos.
-  Dataset: [NASA IMS Bearings](https://data.nasa.gov/dataset/ims-bearings)
+  Dataset:
 
-  [🔗 Repositório](https://github.com/Luan-bs/autoencoder_nasa_ims)
+  [NASA IMS Bearings](https://data.nasa.gov/dataset/ims-bearings)
 
+  [Repositório](https://github.com/Luan-bs/autoencoder_nasa_ims)
+
+  [Site](https://luan-bs.github.io/Autoencoder-Bearing-Anomaly-Detection/)
 ---
 
 - **Titanic Analysis - Etapas do Processo KDD e Feature Engine**
   
   Campeão Logistic Regression - CV Accuracy (5-Fold) = 82,73% | Val Recal = 78,18%
   
-   [🔗 Repositório](https://github.com/Luan-bs/titanic_analysis)
+   [Repositório](https://github.com/Luan-bs/titanic_analysis)
 ---
 
 ### Projetos de Análise de Dados
@@ -40,7 +43,7 @@
   
   1º Lugar — Hackathon Prati Donaduzzi
   
-  [🔗 Repositório](https://github.com/DeepMindsBPK)
+  [Repositório](https://github.com/DeepMindsBPK)
 
 ---
 
@@ -48,7 +51,7 @@
   
   2º Lugar — CIPI III (Congresso Interdisciplinar de Pesquisa e Inovação)
   
-  [🔗 Repositório](https://github.com/Jhonatan-Margraf/Sistema-de-Satisfacao)
+  [Repositório](https://github.com/Jhonatan-Margraf/Sistema-de-Satisfacao)
   
   [📊 Dashboard](https://cantinas-feedback-dashboard.vercel.app/)
   
@@ -58,13 +61,13 @@
 
 - **Leucemia PR Data Analysis**
   
-  [🔗 Repositório](https://github.com/Luan-bs/LeucemiaPR)
+  [Repositório](https://github.com/Luan-bs/LeucemiaPR)
 
 ---
 
 - **E-commerce UK Data Analysis**
   
-  [🔗 Repositório](https://github.com/Luan-bs/UK-Retail-Analysis)
+  [Repositório](https://github.com/Luan-bs/UK-Retail-Analysis)
   
   [📊 Dashboard](https://uk-retail.streamlit.app/)
 
@@ -72,18 +75,18 @@
 
 - **Otimização Carteira de Crédito**
   
-  [🔗 Repositório](https://github.com/Luan-bs/Otimizacao_Matematica_Credito_Bancario)
+  [Repositório](https://github.com/Luan-bs/Otimizacao_Matematica_Credito_Bancario)
 
 ---
 - **Comercial Dashboard**  
-  [🔗 Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/comercial-projeto-final)
+  [Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/comercial-projeto-final)
   
   [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZWNiYTdmNzEtZWI2MS00MmY2LTg4YzktMTRhYjNiMWE1OTI0IiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9) 
 
 ---
   
 - **RH Dashboard**  
-  [🔗 Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/rh-analysis)
+  [Repositório](https://github.com/Luan-bs/data-analysis-powerbi/tree/main/rh-analysis)
   
   [📊 Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZmQ5MTExNTQtZTljZC00Y2Q3LWIxNDItOTgyOWM1NzE4ZTVlIiwidCI6ImRhZGFhOGQzLTIxYWEtNGRjNS05ODBlLTFiZjI0ZWY5Yzc0OCJ9)
   

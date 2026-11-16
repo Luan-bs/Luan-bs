@@ -49,5 +49,10 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Luan-bs&theme=tokyonight" alt="Linguagens nos repositórios" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=py,java,arduino,sqlite,mysql,postgres,docker,github" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=py,java,cpp,arduino,pytorch,sklearn,fastapi,nodejs,react,sqlite,mysql,postgres,docker,gcp,github&perline=8" alt="Tech Stack" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Delta_Lake-00ADD8?style=for-the-badge&logo=databricks&logoColor=white" alt="Delta Lake" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
 </div>
